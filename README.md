@@ -1,2 +1,2 @@
 # dot_matrix
-led dot matrix using max7919
+led dot matrix using max7219
